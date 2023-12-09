@@ -2,7 +2,7 @@
 <h3 align="center">IT student , call me 'Yo-code Maestro'! Transforming caffeine into code and dreams into reality. Embracing the binary beats of tech with a dash of humor and a whole lot of energy! 💻✨ #FutureDeveloper"</h3>
 
 - 📫 How to reach me **eyatahri36@gmail.com**
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/eya thr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eya thr" height="30" width="40" /></a>
